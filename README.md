@@ -56,15 +56,19 @@ demands.
 
 ## Snap Shot:
 
- 
+ <img width="956" height="566" alt="image" src="https://github.com/user-attachments/assets/20c1fd28-dab1-43a8-b2bc-64f07db4be90" />
+
 
 ### Snapshot 1: Create VPC
- 
+ <img width="971" height="494" alt="image" src="https://github.com/user-attachments/assets/294eb580-f3a9-42b2-89a4-98cdeb35837b" />
+
 ### Snapshot 2: Configuring Subnets
  
+<img width="971" height="555" alt="image" src="https://github.com/user-attachments/assets/edbf4209-4188-4458-b84b-bfa5b411fccc" />
 
 ### Snapshot 3: Configure Subnets
- 
+ <img width="1008" height="554" alt="image" src="https://github.com/user-attachments/assets/3f1cf459-ad04-40b1-b727-453217eddfe4" />
+
 
 ### Snapshot 4: Setting Internet gateway
 
