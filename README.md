@@ -8,7 +8,7 @@ Setting up a private cloud within AWS, also known as a Virtual Private Cloud (VP
 involves creating a logically isolated virtual network that you can use to launch AWS
 resources. This provides you with full control over your virtual networking environment,
 including resource placement, connectivity, and security.
-Amazon Virtual Private Cloud (Amazon VPC) gives you full control over your virtual
+- Amazon Virtual Private Cloud (Amazon VPC) gives you full control over your virtual
 networking environment, including resource placement, connectivity, and security. Get
 started by setting up your VPC in the AWS service console. Next, add resources to it such as
 Amazon Elastic Compute Cloud (EC2) and Amazon Relational Database Service (RDS)
