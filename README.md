@@ -1,6 +1,9 @@
 # Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 # Ex.4 Deployment and configuration of a Private Cloud  in AWS
-
+```
+Name: Preethi J
+Reg no: 212223220080
+```
 ## Aim:
 To set up of a Private Cloud  in AWS.
 - Setting up of a private cloud in AWS:
